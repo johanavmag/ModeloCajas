@@ -1,0 +1,39 @@
+p {
+	background: white;
+	border:5px dashed #007acc;
+	text-align:center;
+	padding: 15px;
+	font-family: cursive;
+	color: #cc00cc;
+	margin: 30px 25px 50px 80px;	
+}
+div {
+	background: #1aa3ff;
+	border:5px solid #1aff1a;
+	padding:15px;
+}
+.replica {
+	background: #cc0099;
+	border:5px solid #660066;
+	padding:15px;
+}
+.replica2 {
+	background: #ff99fe;
+	border:5px dotted #cc0066;
+	text-align:center;
+	padding: 15px;
+	margin: 30px 25px 50px 80px;	
+}
+#tercero {
+	background-image: url("http://previews.123rf.com/images/casejustin/casejustin1203/casejustin120300071/12797618-Seamless-Pattern-Stock-Vector-pink-polka-background.jpg");
+	border:5px solid #ff3399;
+	padding:15px;
+}
+#tercero2
+{
+background: white;
+	border:5px dashed #ff66d9;
+	text-align:center;
+	padding: 15px;
+	margin: 50px 55px 90px 110px;
+}
